@@ -28,7 +28,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently working on Machine Learning
+- :computer: I'm currently studying on Machine Learning
 - :hourglass_flowing_sand:  Exploring Google Cloud 
 - :rocket: Always ready to collaborate for Machine Learning
 - :dart: Life Hack: "Explore :fire: and Apply :bomb: with knowledge" 
