@@ -37,5 +37,4 @@
 <h2 align="left">:heart: Let's get connected:</h2>
 
 <a href="https://www.linkedin.com/in/ahmet-mesut-birol/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://www.instagram.com/dr_mesut_/" target="_blank"> <img src="https://img.icons8.com/fluency/344/instagram-new.png" alt="firebase" width="40" height="40"/> </a>
     </p>
